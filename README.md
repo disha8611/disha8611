@@ -12,4 +12,4 @@ I'm a passionate software engineer with a keen eye for detail and a love for sol
 
 ## Contact
 - ✉️ Email: disha81100@gmail.com
-- 💼 LinkedIn: linkedin.com/in/diisha-patel
+- 💼 LinkedIn: https://www.linkedin.com/in/diisha-patel/

@@ -11,5 +11,5 @@ I'm a passionate software engineer with a keen eye for detail and a love for sol
 - 😄 Pronouns: She/her.
 
 ## Contact
-- ✉️ Email: disha81100@gmail.com
+- ✉️ Email: pateldisha.tech@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/diisha-patel/

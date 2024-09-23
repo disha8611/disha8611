@@ -1,4 +1,4 @@
-# Hi there, I'm Isha Patel! 👋
+# Hi there, I'm Disha Patel! 👋
 
 I'm a passionate iOS Developer with a keen eye for detail and a love for solving complex problems. In my free time, I enjoy exploring new technologies, reading industry blogs, and staying up-to-date with the latest developments in the field.
 
@@ -13,5 +13,5 @@ I'm a passionate iOS Developer with a keen eye for detail and a love for solving
 
 ## Contact
 - ✉️ Email: ishapatel8611@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/iisha-patel/
+- 💼 LinkedIn: https://www.linkedin.com/in/diisha-patel/
 

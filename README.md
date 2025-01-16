@@ -12,6 +12,6 @@ I'm a passionate iOS Developer with a keen eye for detail and a love for solving
 - 😄 Pronouns: She/her.
 
 ## Contact
-- ✉️ Email: ishapatel8611@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/diisha-patel/
+- ✉️ Email: dishapatel8611@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/dishap118/
 
